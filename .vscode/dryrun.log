@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/student/Documents/micro/Microbit-main'
+make: Leaving directory '/home/student/Documents/micro/Microbit-main'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
